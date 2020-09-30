@@ -15,6 +15,6 @@ public class Solution4 {
         return res;
     }
     public static void main(String[] args) {
-        System.out.println(recursion(0, 0, 3, 15));
+        System.out.println(recursion(0, 0, 4, 17));
     }
 }
