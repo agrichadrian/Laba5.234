@@ -13,7 +13,7 @@ public class Solution3 {
         }
     }
     public static void main(String[] args) {
-        System.out.println(recursion(20, 15));
-        System.out.println(recursion(10, 15));
+        System.out.println(recursion(30, 10));
+        System.out.println(recursion(21, 60));
     }
 }
